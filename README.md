@@ -1,1 +1,5 @@
-Código para Jogo de Número Secreto proposto como atividade no curso da Alura
+# Jogo de Adivinhação
+
+## Descrição
+
+Este é um simples jogo de adivinhação implementado em JavaScript. O objetivo é adivinhar um número secreto escolhido aleatoriamente pelo computador.
